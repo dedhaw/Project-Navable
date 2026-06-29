@@ -4,6 +4,9 @@ NavAble is an accessibility-first campus navigation system designed for the Univ
 It supports students, faculty, and visitors with diverse mobility and sensory needs by providing
 personalized pedestrian routing, real-time safety context, and inclusive campus features.
 
+## Demo Video
+youtube.com/watch?v=hmsbVBcYZoc&feature=youtu.be
+
 
 ## Problem Statement
 How can the University of Washington better visualize and communicate on-campus accessibility challenges so that students, faculty, and visitors can rely on a centralized, device-compatible map to navigate campus safely, independently, and inclusively?
