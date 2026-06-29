@@ -5,7 +5,7 @@ It supports students, faculty, and visitors with diverse mobility and sensory ne
 personalized pedestrian routing, real-time safety context, and inclusive campus features.
 
 ## Demo Video
-[View our Demo!] (youtube.com/watch?v=hmsbVBcYZoc&feature=youtu.be)
+[View our Demo!] (https://www.youtube.com/watch?v=hmsbVBcYZoc)
 
 
 ## Problem Statement
